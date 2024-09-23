@@ -1,0 +1,15 @@
+streamlit
+numpy
+panda
+catboost
+xgboost
+dill
+flask
+streamlit
+ipykernel
+matplotlib
+tensorflow
+imbalanced-learn
+seaborn
+matplotlib
+scikit-learn
